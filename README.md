@@ -1,12 +1,10 @@
-#rockstar-repo-template
+#GHIS-repo-template
 
 This is where you write an awesome description of your project.  Who, what, why, when, where.
 
-```Replace 'rockstar-repo-template' and 'alaframboise' with your project and username```
+[View it live](http://eendrulat.github.com/GHIS-repo-template/index.html)
 
-[View it live](http://alaframboise.github.com/rockstar-repo-template/index.html)
-
-![App](https://raw.github.com/alaframboise/rockstar-repo-template/master/app.png)
+![App](https://raw.github.com/eendrulat/GHIS-repo-template/master/app.png)
 
 ## Features
 * feature 1
@@ -24,9 +22,10 @@ This is where you write an awesome description of your project.  Who, what, why,
 
 ## Resources
 
-* [ArcGIS for JavaScript API Resource Center](http://help.arcgis.com/en/webapi/javascript/arcgis/index.html)
-* [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
-* [twitter@esri](http://twitter.com/esri)
+* [National Information Sharing Consortium (NISC)](http://nisconsortium.org)
+* [G&H International](http://ghinternational.com/)
+* [twitter@GHIServices](http://twitter.com/GHIServices)
+* [twitter@_NISC](http://twitter.com/_NISC)
 
 ## Issues
 
@@ -37,7 +36,7 @@ Find a bug or want to request a new feature?  Please let us know by submitting a
 Anyone and everyone is welcome to contribute. 
 
 ## Licensing
-Copyright 2012 Esri
+Copyright 2014 NISC (not sure of how we want to handle the licensing here..)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
